@@ -7,8 +7,8 @@
 
 
  ### 簡単な機能
- |[![Image from Gyazo](https://i.gyazo.com/586dd8feeef403f0f171aeadde631052.gif)](https://gyazo.com/586dd8feeef403f0f171aeadde631052)|[![Image from Gyazo](https://i.gyazo.com/e9b50309a350360541ea53e7b982e6c8.gif)](https://gyazo.com/e9b50309a350360541ea53e7b982e6c8)|
+ |[![Image from Gyazo](https://i.gyazo.com/525931c7e4089b1ffc32b4c44afcde3f.gif)](https://gyazo.com/525931c7e4089b1ffc32b4c44afcde3f)|[![Image from Gyazo](https://i.gyazo.com/8958fbb03b4ca760a9c63dd6a7f5d96a.gif)](https://gyazo.com/8958fbb03b4ca760a9c63dd6a7f5d96a)|
 |:-----------:|:------------:|
 |2枚のイラストが同じの場合ペア成立|2枚のイラストが違う場合、カードを戻す|
-|[![Image from Gyazo](https://i.gyazo.com/76765618ac60f098318e146352581f9e.gif)](https://gyazo.com/76765618ac60f098318e146352581f9e)||
+|[![Image from Gyazo](https://i.gyazo.com/69eddb322b7074babe95a5a804d75c99.gif)](https://gyazo.com/69eddb322b7074babe95a5a804d75c99)||
 |ゲームリセット||
