@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 40px auto;
+  padding: 1rem;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+}
+.heading {
+  text-align: center;
+}
+.restart {
+  margin: 0 auto;
+  cursor: pointer;
+  padding: 10px;
+  position: relative;
+}
+.restart:active {
+  top: 2px;
+}
+
+.container {
+  margin: 20px auto;
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(4, 200px);
+  gap: 16px;
+}
