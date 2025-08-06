@@ -10,5 +10,4 @@
 
 |  | 技術 |
 |:-----------:|:------------:|
-|Setup|Vite|
-|Frontend|React, JavaScript, HTML, CSS|
+|Frontend|JavaScript, React, HTML, CSS, Vite|
