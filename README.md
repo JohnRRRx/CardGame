@@ -2,10 +2,10 @@
 [Link](https://johnrrrx.github.io/CardGame/)  
 
  ### 簡単な機能
-|![AIMVXG.gif](https://imgpoi.com/i/AIMVXG.gif)|![](https://imgpoi.com/i/AIMEAB.gif)|
+|![](https://i.ibb.co/NdhGXk22/same.gif)|![](https://i.ibb.co/nqVmHp95/diff.gif)|
 |:-----------:|:------------:|
 |2枚のイラストが同じの場合ペア成立|2枚のイラストが違う場合、カードを戻す|
-|![](https://imgpoi.com/i/AIMBVE.gif)||
+|![](https://i.ibb.co/20Prxnzw/reset.gif)||
 |ゲームリセット||
 
 |  | 技術 |
